@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Make Steam Shortcut
+Icon=/home/kerem/Desktop/ex/make-steam-shortcut/icon.jpeg
+Exec=gnome-terminal -e "python /home/kerem/Desktop/ex/make-steam-shortcut/main.py"
+Categories=Application;
+
