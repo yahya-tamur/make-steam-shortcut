@@ -19,7 +19,6 @@ s_id = link[l:r]
 
 print(f"title: '{title}'")
 print(f"id: '{s_id}'")
-exit()
 
 with open(Path.home() / f'Desktop/{title}.desktop', 'w') as f:
     f.write(f"""[Desktop Entry]
